@@ -1,11 +1,11 @@
 # hello-world
 ## 1st
-I'm following a tutorial on github, hoping I will understand it better
+I'm following a tutorial on Github, hoping I will understand it better
 ## 3rd
-Edit locally on Mac
+Edited locally on Mac
 ## 4th
-Edit locally on Mac
+Edited locally on Mac
 ## 5th
-Edit locally on Windows
+Edited locally on Windows
 ## 6th
-Edit locally on Mac
+Edited locally on Mac
