@@ -8,4 +8,4 @@ Edited locally on Mac
 ## 5th
 Edited locally on Windows
 ## 6th
-Edited locally on Mac
+Edited locally on Mac.
