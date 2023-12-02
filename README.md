@@ -1,6 +1,11 @@
 # hello-world
-1st Test
+## 1st
 I'm following a tutorial on github, hoping I will understand it better
-3rd change locally on Mac
-4th edit - loccaly on Mac
-5th edit - locally on Windowss
+## 3rd
+Edit locally on Mac
+## 4th
+Edit locally on Mac
+## 5th
+Edit locally on Windows
+## 6th
+Edit locally on Mac
